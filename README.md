@@ -16,6 +16,7 @@
 * Tantalum capacitor ( 470uF 6.3V D )
 * Resistors ( Pack of many )
 * Foam
+* Coiled cable
 ---
 # PCB
 
