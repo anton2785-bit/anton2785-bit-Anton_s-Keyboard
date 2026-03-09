@@ -46,5 +46,5 @@
 --- 
 # Credits
 
-Designed and built by (Anton/ Anton-2785-bit)
-Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
+* Designed and built by (Anton/ Anton-2785-bit)
+* Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
