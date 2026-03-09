@@ -17,3 +17,8 @@
 * Resistors ( Pack of many )
 * Foam
 
+# PCB
+
+* The PCB was redone 1 time, so that it was better with the lenght of traces and minimising the resistance.
+<img width="500" height="350" alt="Top layer PCB" src="https://github.com/user-attachments/assets/a7cd9881-7c90-424f-9472-788940893837" />
+<img width="500" height="350" alt="Back layer PCB" src="https://github.com/user-attachments/assets/88943310-da34-416b-80a0-d50561ca15ff" />
